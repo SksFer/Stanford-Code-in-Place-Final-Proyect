@@ -3,7 +3,7 @@
 
 This project uses **Metaprogramming** in Python to convert any image into Pixel Art using Karel the Robot. Instead of hardcoding Karel's movements, a Python script reads an image and writes the Karel code automatically!
 
-![Karel Result]()
+![Karel Result](PreIMG.png)
 
 ## 🌟 How does it work?
 1. The `generador.py` script reads a source image (e.g., `persona3.png`).
